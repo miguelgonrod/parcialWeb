@@ -1,0 +1,9 @@
+/home/miguel/Documentos/parcialWebBack/src/main/java/com/web/taller1/repository/ContratoRepository.java
+/home/miguel/Documentos/parcialWebBack/src/main/java/com/web/taller1/services/ContratoService.java
+/home/miguel/Documentos/parcialWebBack/src/main/java/com/web/taller1/WikiApplication.java
+/home/miguel/Documentos/parcialWebBack/src/main/java/com/web/taller1/AppConfiguration.java
+/home/miguel/Documentos/parcialWebBack/src/main/java/com/web/taller1/config/ModelMapperConfig.java
+/home/miguel/Documentos/parcialWebBack/src/main/java/com/web/taller1/CorsConfig.java
+/home/miguel/Documentos/parcialWebBack/src/main/java/com/web/taller1/dto/ContratoDTO.java
+/home/miguel/Documentos/parcialWebBack/src/main/java/com/web/taller1/model/Contrato.java
+/home/miguel/Documentos/parcialWebBack/src/main/java/com/web/taller1/controllers/ContratoController.java

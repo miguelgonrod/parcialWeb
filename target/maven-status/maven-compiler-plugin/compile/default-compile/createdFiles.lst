@@ -1,0 +1,9 @@
+com/web/taller1/AppConfiguration.class
+com/web/taller1/model/Contrato.class
+com/web/taller1/CorsConfig.class
+com/web/taller1/controllers/ContratoController.class
+com/web/taller1/config/ModelMapperConfig.class
+com/web/taller1/dto/ContratoDTO.class
+com/web/taller1/WikiApplication.class
+com/web/taller1/repository/ContratoRepository.class
+com/web/taller1/services/ContratoService.class
